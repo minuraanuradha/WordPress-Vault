@@ -10,6 +10,6 @@ A responsive product showcase card featuring a sleek hover effect and a modal po
 
 | Card View | Web Popup View |
 |-----------|----------------|
-| ![Card View](./images/web.png) | ![Popup View](./images/web-popup.png) |
+| ![Card View](./images/C01/web.png) | ![Popup View](./images/C01/web-popup.png) |
 
 📁 **Component File**: [`Link`](./C01-Product%20Card%20with%20PopUp)

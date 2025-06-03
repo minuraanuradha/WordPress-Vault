@@ -55,19 +55,15 @@ You can insert this inside:
 
 ## Visual Examples
 
-### Card Image (Web)
+### Web
 
-![Web Card Image](../images/web.png)
+| Card View | Web Popup View |
+|-----------|----------------|
+| ![Card View](../images/C01/web.png) | ![Popup View](../images/C01/web-popup.png) |
 
-### Card Image (Mobile)
+### Mobile
 
-![Mobile Card Image](../images/mobile.png)
-
-### Popup View (Web)
-
-![Web Popup](../images/web-popup.png)
-
-### Popup View (Mobile)
-
-![Mobile Popup](../images/mobile-popup.png)
+| Card View | Mobile Popup View |
+|-----------|----------------|
+| ![Card View](../images/C01/mobile.png) | ![Popup View](../images/C01/mobile-popup.png) |
 
